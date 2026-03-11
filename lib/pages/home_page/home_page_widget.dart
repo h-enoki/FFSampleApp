@@ -9,7 +9,7 @@ class HomePageWidget extends StatefulWidget {
   const HomePageWidget({super.key});
 
   static String routeName = 'HomePage';
-  static String routePath = '/homePage';
+  static String routePath = '/fugaPage';
 
   @override
   State<HomePageWidget> createState() => _HomePageWidgetState();
